@@ -12,4 +12,4 @@ Recuperer les deux premier chiffre et incriver les a la place du 92 dans le code
 
 Je vous donne le lien du vidéo pour l'explication complete de sélénium: https://www.youtube.com/watch?v=pHFsGWC8LSU
 
-PS : Dans le dossier il y a le driver pour Chrome versions 89.
+PS : Dans le fichier il y le driver pour Chrome versions 92.
