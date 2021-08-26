@@ -6,7 +6,7 @@ Ensuite regarder l'image il y a marque la version de votre navigateur.
 
 ![image](https://user-images.githubusercontent.com/82206744/131002113-f4d6ee55-45a7-4fd7-9325-9d43f13b5c42.png)
 
-Recuperer les deux premier chiffre et incriver les a la place du 92 dans le code dans le fichier Connection.py exactement la ou est situer ma souris sur la photo si dessous,
+Recuperer les deux premier chiffre et incriver les a la place du 92 dans le code dans le fichier Connection.py exactement la ou chromedriver92.py est souligner sur la photo si dessous,
 
 ![image](https://user-images.githubusercontent.com/82206744/131002562-28299d6f-0f34-496f-9bbe-0baecefb5071.png)
 
